@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
+
+<h1>This is a Heading</h1>
+<p>la page web est obtenue par interprétation d'un code HTML envoyé par le serveur en réponse à la requête qui lui est envoyée ( adresse en http://www.etc). C'est le navigateur qui interprête ce code.</p>
+
+</body>
+</html>
